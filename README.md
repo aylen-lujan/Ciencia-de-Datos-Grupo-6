@@ -27,7 +27,7 @@ Alumnas: Acebedo María Victoria y Gorra Cerveny Aylen Lujan
 
 | Base | Fuente | Unidad de observación | Período | Ubicación en el repo |
 |---|---|---|---|---|
-| [nombre base principal] | [organismo/fuente] | [países/personas/etc.] | [años] | `raw/...` |
+| P_Data_Extract_From_World_Development_Indicators.xlsx | Banco Mundial | [países/personas/etc.] | 2016 - 2025 | `raw/P_Data_Extract_From_World_Development_Indicators.xlsx` |
 
 ## Cómo correr el proyecto
 
