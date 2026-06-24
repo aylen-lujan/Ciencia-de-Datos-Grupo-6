@@ -5,14 +5,15 @@ Entrega final del trabajo de CIencia de Datos para Economia y Negocios
 -Acebedo María Victoria 
 -Gorra Cerveny Aylen Lujan 
 
-[1-2 párrafos: de qué trata el trabajo, qué pregunta/hipótesis se busca responder, y por qué es relevante. Esto es el "elevator pitch" del proyecto.]
+##Objetivo 
+Demostrar la divergencia y el desarrollo socioeconomico de las regiones del mundo entre el 2016 y el 2025, para ver si las brechas históricamente establecidas entre las regiones de menor desarrollo y las de mayor desarrollo siguen manteniendo sus patrones o disminuyeron significativamente.
 
 ## Hipótesis de trabajo
 
-- H1: Las regiones periféricas registraron avances en distintos avances en distintos indicadores de desarrollo, sin embaro, estos progresos no resultaron suficientes para reducir significativamente las brechas con respecto a las regionres centrales, manteniendo patrones de desigualdad económica y social históricamente establecidos. Se toma como regionres de mayor desarrollo "Norte América" Y "Europa y Asia Central", mientras que "África Subsariana" y "Asia Meridional" se consideran con menor desarrollo.
+- H1: Las regiones periféricas registraron avances en distintos indicadores de desarrollo, sin embargo, estos progresos no resultaron suficientes para reducir significativamente las brechas con respecto a las regiones centrales, manteniendo patrones de desigualdad económica y social históricamente establecidos. Se toma como regiones de mayor desarrollo "Norte América" Y "Europa y Asia Central", mientras que "África Subsariana" y "Asia Meridional" se consideran con menor desarrollo.
   Se toma como referencia el período de 2016 - 2025.
 
-- H2: Las regiones de desarrollo intermedio y heterógeno entre países "América Latina y El Caribe" y "Asia Oriental y El Pacífico" en el mismo período (2016 - 2025) presentan diferentes trayectorias en la evolución de indicadores económicos y sociales, observándose unaa mejora más acelerada en "Asia Oriental y El Pacífico" en pobreza y crecimiento, mientras que "América Latina y El Caribe" tuvo una mejora más lenta, lo cuál se debe a la desigualdad estructural e inestabilidad macroeconómica.
+- H2: Las regiones de desarrollo intermedio y heterógeno entre países "América Latina y El Caribe" y "Asia Oriental y El Pacífico" en el mismo período (2016 - 2025) presentan diferentes trayectorias en la evolución de indicadores económicos y sociales, observándose una mejora más acelerada en "Asia Oriental y El Pacífico" en pobreza y crecimiento, mientras que "América Latina y El Caribe" tuvo una mejora más lenta, lo cuál se debe a la desigualdad estructural e inestabilidad macroeconómica.
 
 ## Estructura del repositorio
 
