@@ -1,7 +1,10 @@
-# Ciencia de Datos, entrega final, grupo 6
+# Brechas socioeconomicas entre las regiones del mundo 
 
 Entrega final del trabajo de CIencia de Datos para Economia y Negocios
-Alumnas: Acebedo María Victoria y Gorra Cerveny Aylen Lujan
+## Alumnas: 
+-Acebedo María Victoria 
+-Gorra Cerveny Aylen Lujan 
+
 [1-2 párrafos: de qué trata el trabajo, qué pregunta/hipótesis se busca responder, y por qué es relevante. Esto es el "elevator pitch" del proyecto.]
 
 ## Hipótesis de trabajo
@@ -14,17 +17,17 @@ Alumnas: Acebedo María Victoria y Gorra Cerveny Aylen Lujan
 ## Estructura del repositorio
 
 ```
-├── raw/         
-├── input/     
-├── auxiliar/     
-├── utils/       
-├── output/      
-├── scripts/     
+├── raw/  -> datos crudos.       
+├── input/  -> datos limpios y procesados.   
+├── auxiliar/  -> bases auxiliares.    
+├── utils/  -> funciones personalizadas.     
+├── output/ -> resultados del analisis (gráficos, tablas y valores obtenidos).    
+├── scripts/  -> todos los códigos del trabajo.   
 └── README.md
 ```
 
 ## Datos utilizados
-https://databank.worldbank.org/source/world-development-indicators
+[WDI]https://databank.worldbank.org/source/world-development-indicators
 | Base | Fuente | Unidad de observación | Período | Ubicación en el repo |
 |---|---|---|---|---|
 | P_Data_Extract_From_World_Development_Indicators.xlsx | Banco Mundial | [países/personas/etc.] | 2016 - 2025 | `raw/P_Data_Extract_From_World_Development_Indicators.xlsx` |
@@ -42,7 +45,7 @@ Los scripts deben ejecutarse en orden. Cada uno guarda sus resultados en `input/
 
 ## Requisitos
 
-- R [versión] con los paquetes: `tidyverse`, `[otros]`...
+- R install.packages(c("tidyverse", "readxl", "countrycode", "ggplot"))
 - Todas las rutas son relativas; el proyecto debe abrirse desde la raíz del repositorio (idealmente como proyecto de RStudio, `.Rproj`).
 
 ## Presentación
