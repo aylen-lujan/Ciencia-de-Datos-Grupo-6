@@ -5,7 +5,7 @@ Entrega final del trabajo de CIencia de Datos para Economia y Negocios
 -Acebedo María Victoria 
 -Gorra Cerveny Aylen Lujan 
 
-##Objetivo 
+## Objetivo 
 Demostrar la divergencia y el desarrollo socioeconomico de las regiones del mundo entre el 2016 y el 2025, para ver si las brechas históricamente establecidas entre las regiones de menor desarrollo y las de mayor desarrollo siguen manteniendo sus patrones o disminuyeron significativamente.
 
 ## Hipótesis de trabajo
