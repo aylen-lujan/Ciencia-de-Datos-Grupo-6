@@ -1,8 +1,8 @@
 [1] "========================================================="
-[1] "          RESULTADOS HIPÓTESIS PRINCIPAL (GLOBAL)        "
+[1] "          RESULTADOS HIPÓTESIS PRINCIPAL      "
 [1] "========================================================="
 
-[1] "1- TEST-T PARA PBI GLOBAL"
+[1] "1- TEST-T PARA PBI "
 
 	Paired t-test
 
@@ -18,7 +18,7 @@ mean difference
 
 ---------------------------------------------------------
 
-[1] "2- TEST-T PARA PBI PER-CAPITA GLOBAL"
+[1] "2- TEST-T PARA PBI PER-CAPITA"
 
 	Paired t-test
 
@@ -34,7 +34,7 @@ mean difference
 
 ---------------------------------------------------------
 
-[1] "3- TEST-T PARA POBREZA GLOBAL"
+[1] "3- TEST-T PARA POBREZA "
 
 	Paired t-test
 
@@ -50,7 +50,7 @@ mean difference
 
 
 [1] "========================================================="
-[1] "          RESULTADOS HIPÓTESIS SECUNDARIA (REGIONAL)     "
+[1] "          RESULTADOS HIPÓTESIS SECUNDARIA    "
 [1] "========================================================="
 
 [1] "--- AMÉRICA LATINA Y EL CARIBE ---"
