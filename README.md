@@ -46,7 +46,7 @@ Los scripts deben ejecutarse en orden. Cada uno guarda sus resultados en `input/
 
 ## Requisitos
 
-- R install.packages(c("tidyverse", "readxl", "countrycode", "ggplot"))
+- R install.packages(c("tidyverse", "readxl", "countrycode", "ggplot", "car"))
 - Todas las rutas son relativas; el proyecto debe abrirse desde la raíz del repositorio (idealmente como proyecto de RStudio, `.Rproj`).
 
 ## Presentación
