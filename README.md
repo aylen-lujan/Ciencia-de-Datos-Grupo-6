@@ -54,7 +54,7 @@ Se toma como referencia el período de 2016 - 2025.
 
 ## Cómo correr el proyecto
 
-Los scripts deben ejecutarse en orden. Cada uno guarda sus resultados en `input/` u `output/`, por lo que pueden corrEr de forma independiente siempre que los archivos previos ya existan en el repo.
+Los scripts deben ejecutarse en orden.
 
 | Orden | Script | Qué hace | Qué genera |
 |---|---|---|---|
