@@ -18,12 +18,31 @@ Se toma como referencia el período de 2016 - 2025.
 ## Estructura del repositorio
 
 ```
-├── raw/  -> datos crudos.       
-├── input/  -> datos limpios y procesados.   
-├── auxiliar/  -> bases auxiliares.    
-├── utils/  -> funciones personalizadas.     
-├── output/ -> resultados del analisis (gráficos, tablas y valores obtenidos).    
-├── scripts/  -> todos los códigos del trabajo.   
+├── auxiliar/  -> bases auxiliares.
+        ├── sin bases auxiliares.R      
+├── input/  -> datos limpios y procesados.
+        ├── base_limpia.csv
+        ├── base_limpia_boxplot.csv
+        ├── base_limpia_scatterplot.csv
+        ├── base_paises_testt.csv
+        ├── base_testt.csv 
+├── output/  -> resultados del analisis (graficos, tablas y valores obtenidos).
+        ├── estadisticas descriptivas.xlsx
+        ├── boxplot_indice_compuesto.png
+        ├── grafico_exploratorio.png
+        ├── resultados_anova_tukey.txt
+        ├── resultados_medianas_scatterplot.txt
+        ├── resultados_test_t.txt
+├── raw/  -> base cruda
+        ├── P_Data_Extract_From_World_Development_Indicators.xlsx
+├── scripts/ -> todos los codigos del trabajo.
+        ├── 01_limpieza.R
+        ├── 02_grafico_exploratorio.R
+        ├── 03_boxplot_grafico_comunicacional.R
+        ├── 04_Test_T_pareado.R
+        ├── 05_anova.R   
+├── utils/  -> funciones personalizadas
+        ├── utils.R   
 └── README.md
 ```
 
