@@ -59,7 +59,6 @@ Los scripts deben ejecutarse en orden.
 | Orden | Script | Qué hace | Qué genera |
 |---|---|---|---|
 | 1 | `scripts/01_limpieza.R` | Limpia y procesa la base cruda, trata faltantes/outliers 
-•Primero cargar la base cruda
 | `input/base_limpia.csv` |
 | 2 | `scripts/02_grafico exploratorio.R` | Grafico exploratorio Scatterplot | `output/grafico_exploratorio.png` -`output/resultados_medianas_scatterplot.txt` - `input/base_limpia_scatterplot.csv`|
 | 3 | `scripts/03_boxplot, gráfico comunicacional.R].R` | Grafico comunicacional, boxplot  | `output/boxplot_indice_compuesto.png` - `input/base_limpia_boxplot.csv` |
